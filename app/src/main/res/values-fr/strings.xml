@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zoro\'s Notes</string>
+
+    <string name="title_main">Exo :\nPersistance</string>
+    <string name="list_title">Liste des notes</string>
+
+    <string name="et_title">Créer une note</string>
+    <string name="et_btn_create">Créer</string>
+
+    <string name="btn_note_save">Sauvegarder</string>
+    <string name="btn_note_cancel">Annuler</string>
+
+    <string name="toast_note_save">Le fichier a été sauvé!</string>
+
+    <string name="format_date">dd/MM/yyyy</string>
+    <string name="format_time">HH:mm</string>
+
+    <string name="dialog_exist_file">!!! Le fichier existe déjà !!!</string>
+    <string name="dialog_lost_data_title">ATTENTION: perte de données!</string>
+    <string name="dialog_lost_data_message">Les dernières modifications seront perdues!\nVoulez-vous continuer?</string>
+    <string name="dialog_save_quit">Sauver &amp; Quitter</string>
+</resources>
